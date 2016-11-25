@@ -3,7 +3,7 @@ Identity provider authentication
 
 ##Overview
 
-   Identity provider authentication will take care of authenticating the user/account in  third party server, based on the response it will authorize user/account in Gooru system.
+   Identity provider authentication will take care of authenticating the user/account in  third party server, based on the response it will authorize user/account in the system.
 
 **Supported identity provider methods**
    
